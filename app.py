@@ -328,4 +328,4 @@ else:
         st.markdown(html_text_PVH_EN, unsafe_allow_html=True)
 
 # Hide deprecation warning for file uploader
-st.set_option('deprecation.showfileUploaderEncoding', False)
+# st.set_option('deprecation.showfileUploaderEncoding', False)
